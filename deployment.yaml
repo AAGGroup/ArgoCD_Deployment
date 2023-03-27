@@ -18,7 +18,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: aaggroup/test1:11
+      - image: aaggroup/test1:12
         name: demo
         resources: {}
 status: {}
